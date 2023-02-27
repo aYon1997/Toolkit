@@ -27,12 +27,12 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 text-center">
                         <div class="contents">
-                            <h5 class="script-font wow fadeInUp">Hi This is22222222222222222222</h5>
+                            <h5 class="script-font wow fadeInUp">Hi This is</h5>
                             <h2 class="head-title wow fadeInUp">Tom Simple</h2>
                             <p class="script-font wow fadeInUp">前端Web开发人员</p>
                             <ul class="social-icon wow fadeInUp">
                                 <li>
-                                    <a class="facebook" href="#"><i class="icon-social-facebook"></i></a>
+                                    <a class="facebook" href="https://github.com/Caterpillarflys/ours.git"><i class="icon-social-facebook"></i></a>
                                 </li>
                                 <li>
                                     <a class="twitter" href="#"><i class="icon-social-twitter"></i></a>
