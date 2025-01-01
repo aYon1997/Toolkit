@@ -1,24 +1,9 @@
-# boke
+# Toolkit README
 
-## Project setup
-```
-npm install
-```
+## 一、项目概述
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+本项目是一个功能丰富的工具箱，旨在为开发者或日常使用者提供一系列便捷的工具，以满足不同场景下的需求。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 快捷部署
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+一键快速部署、回滚、备份。

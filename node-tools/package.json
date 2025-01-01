@@ -1,0 +1,12 @@
+{
+  "name": "toolkit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "online-upload": "node node-tools/online.js upload"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "eslintConfig": {},
+  "browserslist": []
+}
