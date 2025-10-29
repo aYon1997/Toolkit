@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "dev:mock": "cross-env VUE_APP_NETWORK_MOCK=true vue-cli-service serve"
+  }
+}
